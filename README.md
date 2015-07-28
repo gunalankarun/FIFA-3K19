@@ -1,6 +1,6 @@
 <h1>FIFA 3K19 <sub><sup><sub><sup><sub>A project by #TeamOP</sub></sup></sub></sup></sub> </h1> 
 
-![Completed Project](https://github.com/gunalankarun/FIFA-3K19/images/completed.jpg)
+![Completed Project](https://github.com/gunalankarun/FIFA-3K19/blob/master/images/completed.jpg)
 
 ## Overview
 
