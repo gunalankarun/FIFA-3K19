@@ -16,8 +16,8 @@ The objective of the game is to score 5 points first. Each player has the abilit
 + OP Mode: *REDACTED*. Only activates if you in #TeamOP (or you can just look through the code and figure out how to activate it).
 
 **Controls:**
-+ 3 Player 1 Sliders - controls foosball paddle movement for player 1 
-+ 3 Player 2 Sliders - controls foosball paddle movement for plater 2
++ 3 Player1 Sliders - controls foosball paddle movement for player 1 
++ 3 Player2 Sliders - controls foosball paddle movement for plater 2
 + 2 Kick Buttons - used to mimick kick of ball. increases speed of ball when clicked when ball hits foosball paddle.
 + 1 ALT button - button for mode selection
 
